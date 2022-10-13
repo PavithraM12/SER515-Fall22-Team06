@@ -25,7 +25,7 @@ Contributors names and contact info:
 - Nirmit Agrawal
 - Alok RajPurohit 
 - Debesh Pradhan
-- Harshita Karur 
+- Harshitha Karur 
 - Pavithra Moravaneni 
 
 ## Github Repository
